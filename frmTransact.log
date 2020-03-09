@@ -1,0 +1,69 @@
+Line 245: Class MSComctlLib.ListView of control ListView2 was not a loaded control class.
+Line 464: Class MSComctlLib.ListView of control ListView4 was not a loaded control class.
+Line 498: Class MSComCtl2.DTPicker of control DTPicker2 was not a loaded control class.
+Line 510: Class MSComCtl2.DTPicker of control DTPicker1 was not a loaded control class.
+Line 522: Class MSComctlLib.ListView of control ListView3 was not a loaded control class.
+Line 988: Class MSComctlLib.ListView of control ListView1 was not a loaded control class.
+Line 251: The property name _ExtentX in ListView2 is invalid.
+Line 252: The property name _ExtentY in ListView2 is invalid.
+Line 253: The property name View in ListView2 is invalid.
+Line 254: The property name LabelWrap in ListView2 is invalid.
+Line 255: The property name HideSelection in ListView2 is invalid.
+Line 256: The property name FullRowSelect in ListView2 is invalid.
+Line 257: The property name GridLines in ListView2 is invalid.
+Line 258: The property name _Version in ListView2 is invalid.
+Line 263: The property name NumItems in ListView2 is invalid.
+Line 267: The property name ColumnHeader(1) in ListView2 is invalid.
+Line 272: The property name ColumnHeader(2) in ListView2 is invalid.
+Line 277: The property name ColumnHeader(3) in ListView2 is invalid.
+Line 282: The property name ColumnHeader(4) in ListView2 is invalid.
+Line 287: The property name ColumnHeader(5) in ListView2 is invalid.
+Line 470: The property name _ExtentX in ListView4 is invalid.
+Line 471: The property name _ExtentY in ListView4 is invalid.
+Line 472: The property name View in ListView4 is invalid.
+Line 473: The property name LabelWrap in ListView4 is invalid.
+Line 474: The property name HideSelection in ListView4 is invalid.
+Line 475: The property name FullRowSelect in ListView4 is invalid.
+Line 476: The property name GridLines in ListView4 is invalid.
+Line 477: The property name _Version in ListView4 is invalid.
+Line 482: The property name NumItems in ListView4 is invalid.
+Line 486: The property name ColumnHeader(1) in ListView4 is invalid.
+Line 491: The property name ColumnHeader(2) in ListView4 is invalid.
+Line 496: The property name ColumnHeader(3) in ListView4 is invalid.
+Line 504: The property name _ExtentX in DTPicker2 is invalid.
+Line 505: The property name _ExtentY in DTPicker2 is invalid.
+Line 506: The property name _Version in DTPicker2 is invalid.
+Line 507: The property name Format in DTPicker2 is invalid.
+Line 508: The property name CurrentDate in DTPicker2 is invalid.
+Line 516: The property name _ExtentX in DTPicker1 is invalid.
+Line 517: The property name _ExtentY in DTPicker1 is invalid.
+Line 518: The property name _Version in DTPicker1 is invalid.
+Line 519: The property name Format in DTPicker1 is invalid.
+Line 520: The property name CurrentDate in DTPicker1 is invalid.
+Line 528: The property name _ExtentX in ListView3 is invalid.
+Line 529: The property name _ExtentY in ListView3 is invalid.
+Line 530: The property name View in ListView3 is invalid.
+Line 531: The property name LabelWrap in ListView3 is invalid.
+Line 532: The property name HideSelection in ListView3 is invalid.
+Line 533: The property name FullRowSelect in ListView3 is invalid.
+Line 534: The property name GridLines in ListView3 is invalid.
+Line 535: The property name _Version in ListView3 is invalid.
+Line 540: The property name NumItems in ListView3 is invalid.
+Line 544: The property name ColumnHeader(1) in ListView3 is invalid.
+Line 549: The property name ColumnHeader(2) in ListView3 is invalid.
+Line 554: The property name ColumnHeader(3) in ListView3 is invalid.
+Line 559: The property name ColumnHeader(4) in ListView3 is invalid.
+Line 564: The property name ColumnHeader(5) in ListView3 is invalid.
+Line 994: The property name _ExtentX in ListView1 is invalid.
+Line 995: The property name _ExtentY in ListView1 is invalid.
+Line 996: The property name View in ListView1 is invalid.
+Line 997: The property name LabelWrap in ListView1 is invalid.
+Line 998: The property name HideSelection in ListView1 is invalid.
+Line 999: The property name FullRowSelect in ListView1 is invalid.
+Line 1000: The property name GridLines in ListView1 is invalid.
+Line 1001: The property name _Version in ListView1 is invalid.
+Line 1015: The property name NumItems in ListView1 is invalid.
+Line 1019: The property name ColumnHeader(1) in ListView1 is invalid.
+Line 1024: The property name ColumnHeader(2) in ListView1 is invalid.
+Line 1029: The property name ColumnHeader(3) in ListView1 is invalid.
+Line 1034: The property name ColumnHeader(4) in ListView1 is invalid.

@@ -1,0 +1,9 @@
+frmMenu = -5, 10, 653, 475, , 156, 156, 977, 598, C
+modFunctionAdd = -11, 13, 1078, 306, 
+frmEmp_Add = 0, 0, 821, 442, , 78, 78, 524, 642, C
+modConexion = 0, 0, 821, 442, 
+modLoadList = 26, 26, 847, 468, 
+frmEmpAttendance = 0, 0, 0, 0, C, 104, 104, 925, 546, C
+frmEmpSetting = 0, 0, 0, 0, C, 130, 130, 951, 572, C
+frmTransact = 104, 104, 925, 546, , 208, 208, 1029, 650, C
+frmReport = 0, 0, 0, 0, C, 182, 182, 1003, 624, C
